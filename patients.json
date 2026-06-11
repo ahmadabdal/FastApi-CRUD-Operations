@@ -1,0 +1,56 @@
+{
+  "P001": {
+    "name": "Atul",
+    "city": "Mumbai",
+    "age": 35,
+    "gender": "Male",
+    "height": 175,
+    "weight": 70,
+    "bmi": 22.86
+  },
+  "P002": {
+    "name": "Sara",
+    "city": "London",
+    "age": 28,
+    "gender": "Female",
+    "height": 165,
+    "weight": 58,
+    "bmi": 21.3
+  },
+  "P003": {
+    "name": "John",
+    "city": "New York",
+    "age": 42,
+    "gender": "Male",
+    "height": 180,
+    "weight": 85,
+    "bmi": 26.23
+  },
+  "P004": {
+    "name": "Priya",
+    "city": "Delhi",
+    "age": 31,
+    "gender": "Female",
+    "height": 160,
+    "weight": 55,
+    "bmi": 21.48
+  },
+  "P005": {
+    "name": "Alex",
+    "city": "Toronto",
+    "age": 25,
+    "gender": "Non-binary",
+    "height": 170,
+    "weight": 65,
+    "bmi": 22.49
+  },
+  "P006": {
+    "name": "Chen",
+    "city": "Beijing",
+    "age": 50,
+    "gender": "Male",
+    "height": 168,
+    "weight": 72,
+    "bmi": 25.51
+  }
+}
