@@ -1,12 +1,12 @@
 {
   "P001": {
-    "name": "Atul",
-    "city": "Mumbai",
-    "age": 35,
-    "gender": "Male",
-    "height": 175,
-    "weight": 70,
-    "bmi": 22.86
+    "name": "tESTING",
+    "city": "string",
+    "age": 0,
+    "gender": "male",
+    "height": 1.0,
+    "weight": 1.0,
+    "bmi": 1.0
   },
   "P002": {
     "name": "Sara",
@@ -52,5 +52,14 @@
     "height": 168,
     "weight": 72,
     "bmi": 25.51
+  },
+  "P007": {
+    "name": "AHMAD",
+    "city": "DELHI",
+    "age": 20,
+    "gender": "male",
+    "height": 5.0,
+    "weight": 50.0,
+    "bmi": 2.0
   }
 }
